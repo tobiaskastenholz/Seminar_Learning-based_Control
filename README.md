@@ -1,5 +1,5 @@
 # Seminar Learning-based Control
-Seminar about Learning-based Control at RWTH Aachen University (Winter Semester 2020/2021) 
+Seminar about Learning-based Control at RWTH Aachen University (Winter Semester 2021/2022) 
 
 __Course description:__
 
